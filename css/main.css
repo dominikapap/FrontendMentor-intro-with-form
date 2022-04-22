@@ -121,18 +121,17 @@ input {
   margin-bottom: 0;
   height: 56px;
   width: 279px;
-  padding: 15px 2px 15px 19.41px;
+  padding: 16px 2px 15px 19.41px;
   font-weight: 600;
   font-size: 14px;
   line-height: 26px;
   letter-spacing: 0.25px;
-  color: #3d3b48;
+  color: #3D3B48;
   opacity: 0.75;
   border: 2px solid #dedede;
   border-radius: 5px;
 }
 input:focus {
-  color: #3D3B48;
   outline-color: #5E54A4;
 }
 @media (min-width: 1430px) {
@@ -227,7 +226,7 @@ input:focus {
   border-radius: 5px;
   border: none;
   font-weight: 600;
-  font-size: 15px;
+  font-size: 0.8rem;
   line-height: 26px;
   text-align: center;
   letter-spacing: 1px;
@@ -251,7 +250,7 @@ input:focus {
   text-align: center;
   color: #bab7d4;
   padding-bottom: 16px;
-  margin: 8px 39px 24px;
+  margin: 0.5rem 39px 24px;
 }
 #formContainer_undertext span {
   color: #ff7a7a;
