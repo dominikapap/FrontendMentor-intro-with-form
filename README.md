@@ -45,9 +45,9 @@ Errors:
 
 Desing comaparisons:  
 
-![](/screenshots/designComparisonLeft.PNG)
+![](/screenshots/designComparisonLeft.png)
 
-![](/screenshots/designComparisonRight.PNG)
+![](/screenshots/designComparisonRight.png)
 
 
 
