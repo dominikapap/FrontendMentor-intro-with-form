@@ -126,8 +126,8 @@ input {
   font-size: 14px;
   line-height: 26px;
   letter-spacing: 0.25px;
-  color: rgba(61, 59, 72, 0.75);
-  border: 1px solid #dedede;
+  color: rgb(61, 59, 72);
+  border: 2px solid #dedede;
   border-radius: 5px;
 }
 input:focus {
