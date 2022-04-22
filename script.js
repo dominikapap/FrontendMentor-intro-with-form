@@ -7,7 +7,7 @@
 
 const form = document.querySelector("#form");
 const inp = document.querySelectorAll("input");
-const errors = document.querySelectorAll(".errorMsg");
+const errors = document.querySelectorAll(".error");
 const messages = [
   "First name cannot be empty",
   "Last name cannot be empty",
