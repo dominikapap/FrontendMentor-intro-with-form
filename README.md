@@ -69,7 +69,7 @@ Desing comaparisons:
 ## Author
 
 - Linkedin - [My LinkedIn profile](https://www.linkedin.com/in/dominika-papierska-1ba09311a/)
-- Frontend Mentor - [@dominikapap](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@dominikapap](https://www.frontendmentor.io/profile/dominikapap)
 - Email - domi.papierska@gmail.com
 
 
