@@ -43,6 +43,12 @@ Errors:
   
 ![](/screenshots/errors.PNG)
 
+Desing comaparisons:  
+
+![](/screenshots/designComparisonLeft.PNG)
+
+![](/screenshots/designComparisonRight.PNG)
+
 
 
 ### Links
