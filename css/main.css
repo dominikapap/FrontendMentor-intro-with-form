@@ -225,11 +225,13 @@ input:focus {
   box-shadow: inset 0px -4px 0px rgba(0, 0, 0, 0.0908818);
   border-radius: 5px;
   border: none;
+  font-family: "Poppins", sans-serif;
   font-weight: 600;
-  font-size: 0.9rem;
+  font-size: 0.93rem;
   line-height: 26px;
   text-align: center;
   letter-spacing: 1px;
+  padding-top: 0.3rem;
 }
 #claimBtn:hover {
   background-color: #77e2b3;
@@ -250,7 +252,7 @@ input:focus {
   text-align: center;
   color: #bab7d4;
   padding-bottom: 16px;
-  margin: 0.6rem 39px 24px;
+  margin: 0.7rem 39px 24px;
 }
 #formContainer_undertext span {
   color: #ff7a7a;
