@@ -30,11 +30,9 @@ form.addEventListener("submit", (e) => {
     if (!inputs[i].name.checkValidity()) {
         inputs[i].name.classList.add("errorInp");
         inputs[i].name.placeholder = "";
-        inputs[i].error.classList.add("show");
         inputs[i].error.innerHTML = inputs[i].message;
     } else {
         inputs[i].name.classList.remove("errorInp");
-        inputs[i].error.classList.remove("show");
         inputs[i].error.innerHTML = "";
     }
   }
