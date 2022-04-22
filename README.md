@@ -31,13 +31,18 @@ Users should be able to:
 
 ### Screenshot
 
-![](/screenshots/mobile.png)
+Mobile version:  
+   
+![](/screenshots/mobile.PNG)
 
+Desktop version:  
+  
+![](/screenshots/desktop.PNG)
 
-![](/screenshots/desktop.png)
+Errors:
+  
+![](/screenshots/errors.PNG)
 
-
-![](/screenshots/errors.png)
 
 
 ### Links
