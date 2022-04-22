@@ -42,8 +42,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/dominikapap/FrontendMentor-intro-with-form)
-- Live Site URL: [Add live site URL here](/)
+- Solution URL: [GitHub repository](https://github.com/dominikapap/FrontendMentor-intro-with-form)
+- Live Site URL: [Netlify App](https://dominikapap-intro-with-form.netlify.app/)
 
 
 
