@@ -22,6 +22,7 @@ form.addEventListener("submit", (e) => {
       inp[i].classList.remove("focused");
       inp[i].classList.add("errorInp");
       errors[i].innerHTML = messages[i];
+      errors[i].classList.add('errorMsg')
 
       if (i ==2){
         inp[i].placeholder = "email/example.com";
