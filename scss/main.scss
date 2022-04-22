@@ -122,9 +122,8 @@ input {
   font-size: 14px;
   line-height: 26px;
   letter-spacing: 0.25px;
-  color:#3D3B48;
-  opacity: 0.75;
-  border: 2px solid #dedede;
+  color:rgba(61, 59, 72, 0.75);
+  border: 1px solid #dedede;
   border-radius: 5px;
   &:focus{
     outline-color: #5E54A4;
