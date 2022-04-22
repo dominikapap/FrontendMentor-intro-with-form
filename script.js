@@ -21,8 +21,13 @@ form.addEventListener("submit", (e) => {
     if (!inp[i].checkValidity()) {
       inp[i].classList.remove("focused");
       inp[i].classList.add("errorInp");
-      inp[i].placeholder = "";
       errors[i].innerHTML = messages[i];
+
+      if (i ==2){
+        inp[i].placeholder = "email/example.com";
+      }else{inp[i].placeholder = "";}
+      
+
     } else {
       inp[i].classList.remove("errorInp");
       errors[i].innerHTML = "";
