@@ -25,7 +25,7 @@ form.addEventListener("submit", (e) => {
       errors[i].classList.add('errorMsg')
 
       if (i ==2){
-        inp[i].placeholder = "email/example.com";
+        inp[i].placeholder = "email@example.com";
       }else{inp[i].placeholder = "";}
       
 
