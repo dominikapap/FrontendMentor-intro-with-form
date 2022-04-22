@@ -5,7 +5,7 @@ body {
 }
 main {
   width: 375px;
-  height: 1000px;
+  min-height: 1000px;
   background-color: #ff7979;
   background-image: url("/images/intro-mobile.png");
   color: #fff;
@@ -55,7 +55,7 @@ h1 {
 form {
   background-color: #fff;
   color: hsl(246, 25%, 77%);
-  height: 442px;
+  min-height: 442px;
   box-shadow: 0px 8px 0px rgba(0, 0, 0, 0.14688);
   border-radius: 10px;
 }
@@ -101,24 +101,48 @@ input {
   text-align: center;
   letter-spacing: 1px;
 }
+#claimBtn:hover{
+  background-color: #77E2B3;
+  cursor: pointer;
+}
 #smallP {
   font-weight: 500;
   font-size: 11px;
   line-height: 21px;
   text-align: center;
   color: #bab7d4;
+  padding-bottom: 16px;
   margin: 8px 39px 24px;
 }
 #smallP span {
   color: #ff7979;
 }
-.attribution {
-  font-size: 11px;
-  text-align: center;
+
+.errorMsg{
+  color: #FF7979;
+  font-family: 'Poppins';
+font-style: italic;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+text-align: right;
+margin-right: 40px;
+margin-top: 6px;
 }
-.attribution a {
-  color: hsl(228, 45%, 44%);
+.hide{
+  display: none;
 }
+.show{
+  display:block;
+}
+
+.errorInp{
+  border: solid 3px #FF7979;
+  background-image: url(/images/warningicon.png);
+  background-repeat: no-repeat;
+  background-position: right;}
+
+ 
 
 @media screen and (min-width: 1430px) {
   main {
@@ -154,7 +178,7 @@ input {
     height: 60px;
   }
   form {
-    height: 474px;
+    min-height: 474px;
   }
   input {
     width: 460px;
